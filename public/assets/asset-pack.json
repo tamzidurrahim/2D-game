@@ -1,0 +1,328 @@
+{
+  "fonts": {
+    "files": [
+      {
+        "url": "https://cdn-game-mcp-test.gambo.ai/shared/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "tilemaps": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "level1_map",
+        "url": "https://cdn-game-mcp.gambo.ai/87d1e73c-f31f-4a4e-9ca6-a6ee0431a8fe/tile_maps/level1_map.json"
+      }
+    ]
+  },
+  "tilesets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "forest_ground",
+        "url": "https://cdn-game-mcp.gambo.ai/23fc7413-cd86-4f37-bcee-ee7322aeeefd/tilesets/forest_ground.png"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "forest_background",
+        "url": "https://cdn-game-mcp.gambo.ai/5b2df951-4b4e-43ed-8e28-13b19df88a24/images/forest_background.png"
+      },
+      {
+        "type": "image",
+        "key": "konoha_village_background",
+        "url": "https://cdn-game-mcp.gambo.ai/d5ec1b55-922c-4969-8333-1c8226913841/images/konoha_village_background_v2.png"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "game_title",
+        "url": "https://cdn-game-mcp.gambo.ai/71e13e7d-0bef-4985-91c9-10601972ae01/images/game_title.png"
+      }
+    ]
+  },
+  "character_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "kakashi_idle_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/f1c94c05-18d4-46c8-8f6e-34f261a9aa97/animations/kakashi_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_idle_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/e4ca4db3-9b0e-42d9-ad68-06c4d31805bc/animations/kakashi_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_walk_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/7b71a280-1c00-461b-a445-bac3f84e3f0b/animations/kakashi_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_walk_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/d12e567f-f8b7-442b-96d2-2072cfcf0892/animations/kakashi_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_walk_frame3",
+        "url": "https://cdn-game-mcp.gambo.ai/f78381d3-fb0f-4b43-a6f2-c393641cbf07/animations/kakashi_walk_R/frame_3.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_walk_frame4",
+        "url": "https://cdn-game-mcp.gambo.ai/d12e567f-f8b7-442b-96d2-2072cfcf0892/animations/kakashi_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_jump_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/ce539ed7-d273-459b-992f-7b521d683ce5/animations/kakashi_jump_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_jump_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/ef7a0d37-0608-496c-9dc4-52ea470c3aaf/animations/kakashi_jump_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_punch_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/45e17988-a516-4f11-9e94-f50b7944a0c0/animations/kakashi_punch_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_punch_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/ff67cea2-765e-4521-b42c-204a23e1feb3/animations/kakashi_punch_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_kick_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/b6763b39-1506-42ce-93f6-b227e4c62f66/animations/kakashi_kick_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_kick_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/1c682d5b-442c-47cb-ae7a-d7cf8de4ef57/animations/kakashi_kick_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_chidori_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/84c0bdfa-c6da-4df8-b2bd-9a8b510e3700/animations/kakashi_chidori_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_chidori_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/dac9800b-f3c1-4bce-a68e-d8efed355e96/animations/kakashi_chidori_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_die_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/0abe514f-001d-4681-abc5-6302a85e9dde/animations/kakashi_die_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_die_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/febd99fa-6243-490c-9f46-cc4a95793ec0/animations/kakashi_die_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_sharingan_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/e4a903c2-a39e-43f5-815f-320042fb5aec/animations/kakashi_sharingan_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "kakashi_sharingan_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/11e57578-6555-4006-8aa8-97f30b0d6738/animations/kakashi_sharingan_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_idle_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/1075c2fa-73e1-451e-8043-c0be7535871e/animations/sound_ninja_idle_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_idle_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/fd41eae8-5503-45db-b628-a8752ab3badd/animations/sound_ninja_idle_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_walk_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/018fe54e-3ca2-4c04-8d50-b49c713010a8/animations/sound_ninja_walk_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_walk_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/bd19ede6-5724-419b-a80c-64f55b802a6c/animations/sound_ninja_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_walk_frame3",
+        "url": "https://cdn-game-mcp.gambo.ai/305c1b07-63b0-4e25-b8b7-dc04ea38a609/animations/sound_ninja_walk_R/frame_3.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_walk_frame4",
+        "url": "https://cdn-game-mcp.gambo.ai/bd19ede6-5724-419b-a80c-64f55b802a6c/animations/sound_ninja_walk_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_attack_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/eba1399e-e835-42d8-886f-40bf774a885c/animations/sound_ninja_attack_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_attack_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/f91c1ab4-cdef-481a-a073-a937608dbb08/animations/sound_ninja_attack_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_die_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/9ff156f7-e3ad-4394-95dd-911f8467ddf6/animations/sound_ninja_die_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sound_ninja_die_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/36dda6e2-ce56-4374-8a71-9b2cbba62256/animations/sound_ninja_die_R/frame_2.png"
+      }
+    ]
+  },
+  "decoration_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "trees_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/8603aa82-dbcc-4998-a841-a6e574f5cb2a/images/trees_decorations/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "trees_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/7f3f7726-0fa6-46dc-bdcd-e26ee3381d7a/images/trees_decorations/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "trees_variant_3",
+        "url": "https://cdn-game-mcp.gambo.ai/0f0984d3-d1e5-46bf-ba7d-f222947cbd5a/images/trees_decorations/variant_3.png"
+      },
+      {
+        "type": "image",
+        "key": "rocks_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/392fb73c-fe02-4950-83c4-8cf943bfc4cb/images/rocks_decorations/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "rocks_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/c28f63a9-f284-4289-8d7d-1e40887cb239/images/rocks_decorations/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "bushes_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/c7c22009-1dae-4d79-8838-bb0ff6ddcb38/images/bushes_decorations/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "bushes_variant_2",
+        "url": "https://cdn-game-mcp.gambo.ai/d5c3fae4-0a9f-4a17-a7b8-41a980b90bfc/images/bushes_decorations/variant_2.png"
+      },
+      {
+        "type": "image",
+        "key": "grass_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/049e1f34-72d6-4b59-bed9-b59b15d6593e/images/grass_decorations/variant_1.png"
+      },
+      {
+        "type": "image",
+        "key": "wooden_post_variant_1",
+        "url": "https://cdn-game-mcp.gambo.ai/5d554916-92d4-423d-8395-78fe3bda3f76/images/wooden_posts_decorations/variant_1.png"
+      }
+    ]
+  },
+  "effect_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "dust_effect",
+        "url": "https://cdn-game-mcp.gambo.ai/e4cf36d7-1de8-43d1-99ec-ac8d1e44a883/images/dust_effect.png"
+      },
+      {
+        "type": "image",
+        "key": "red_sharingan_distortion",
+        "url": "https://cdn-game-mcp.gambo.ai/523b2939-8cb0-4082-a9d0-8fcba4b78d3f/images/red_sharingan_distortion.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "ninja_jump_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/e22f27d0-6eb7-4570-92dd-25ff4021b14b_ninja_jump_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "punch_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/63bd56f9-ddb2-4729-9113-d68b382a804e_punch_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "kick_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/26b3e554-3c0c-40ac-9666-3709f135963b_kick_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "chidori_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/0907a67b-56d4-4ba2-87a8-e1a060795bf1_chidori_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ninja_hurt_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/5211c7fe-d726-4098-b739-1126245622cd_ninja_hurt_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ninja_die_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/daa9bb9c-ef68-494c-a665-c048e8dd4bc0_ninja_die_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ninja_slash_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/ba4c0792-9685-4609-ba56-da2bc2bfb5cf_ninja_slash_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "game_over_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/89c0ede7-73de-418c-ab0a-761b9df6c41c_game_over_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "ui_click_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/b86ccff4-0702-414e-aa35-e075a7bed822_ui_click_sound.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "sharingan_distortion_sound",
+        "url": "https://cdn-game-mcp.gambo.ai/4effa919-d77a-42a2-a535-62c4977096df_sharingan_distortion_sound.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "ninja_adventure_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/19c02cd6-3e79-4939-892a-229fb96bf1ce/music/ninja_adventure_theme.wav"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Gambo AI",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}

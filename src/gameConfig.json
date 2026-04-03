@@ -1,0 +1,102 @@
+{
+  "screenSize": {
+    "width": {
+      "value": 1152,
+      "type": "number",
+      "description": "Screen width"
+    },
+    "height": {
+      "value": 768,
+      "type": "number",
+      "description": "Screen height"
+    }
+  },
+  "debugConfig": {
+    "debug": {
+      "value": false,
+      "type": "boolean",
+      "description": "Enable debug mode"
+    },
+    "debugShowBody": {
+      "value": false,
+      "type": "boolean",
+      "description": "Show collision bodies"
+    },
+    "debugShowStaticBody": {
+      "value": false,
+      "type": "boolean",
+      "description": "Show static collision bodies"
+    },
+    "debugShowVelocity": {
+      "value": false,
+      "type": "boolean",
+      "description": "Show velocity vectors"
+    }
+  },
+  "renderConfig": {
+    "pixelArt": {
+      "value": true,
+      "type": "boolean",
+      "description": "Enable pixel art rendering"
+    }
+  },
+  "kakashiConfig": {
+    "walkSpeed": {
+      "value": 260,
+      "type": "number",
+      "description": "Kakashi walk speed"
+    },
+    "jumpPower": {
+      "value": 800,
+      "type": "number",
+      "description": "Kakashi jump power"
+    },
+    "gravityY": {
+      "value": 1200,
+      "type": "number",
+      "description": "Kakashi gravity"
+    },
+    "maxHealth": {
+      "value": 100,
+      "type": "number",
+      "description": "Kakashi maximum health"
+    },
+    "hurtingDuration": {
+      "value": 100,
+      "type": "number",
+      "description": "Hurt stun duration (milliseconds)"
+    },
+    "invulnerableTime": {
+      "value": 2000,
+      "type": "number",
+      "description": "Invulnerability time (milliseconds)"
+    }
+  },
+  "soundNinjaConfig": {
+    "walkSpeed": {
+      "value": 120,
+      "type": "number",
+      "description": "Sound Ninja walk speed"
+    },
+    "maxHealth": {
+      "value": 40,
+      "type": "number",
+      "description": "Sound Ninja maximum health"
+    },
+    "attackCooldown": {
+      "value": 4000,
+      "type": "number",
+      "description": "Sound Ninja attack cooldown (milliseconds)"
+    },
+    "patrolDistance": {
+      "value": 200,
+      "type": "number",
+      "description": "Sound Ninja patrol distance"
+    },
+    "detectionRange": {
+      "value": 300,
+      "type": "number",
+      "description": "Sound Ninja detection range"
+    }
+  }
+}
