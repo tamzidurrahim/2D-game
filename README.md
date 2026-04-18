@@ -31,4 +31,4 @@ npm run build
 ```
 
 ## 🌐 Live Demo
-[View Live Site](https://doozydetailing.netlify.app)
+[View Live Site](https://doozynaruto.netlify.app)
