@@ -30,5 +30,4 @@ Then open your browser at `http://localhost:5173`
 npm run build
 ```
 
-## 🌐 Live Demo
-> Coming soon — will be deployed on GitHub Pages
+
