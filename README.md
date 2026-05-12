@@ -16,7 +16,8 @@ Chidori and Sharingan.
 - [Vite](https://vitejs.dev/) — build tool and dev server
 - JavaScript (ES6 modules)
 
-
+## 🚀 How to Run Locally
+Make sure you have [Node.js](https://nodejs.org/) installed, then:
 
 ```bash
 npm install
