@@ -25,10 +25,6 @@ npm run dev
 ```
 Then open your browser at `http://localhost:5173`
 
-## 📦 Build for Production
-```bash
-npm run build
-```
 
 ## 🌐 Live Demo
 [View Live Site](https://doozynaruto.netlify.app)
